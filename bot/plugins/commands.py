@@ -37,7 +37,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎭 ⭕️ FOR YOUR QUERY, CONTACT ME ⭕️', url="https://t.me/UFSChatBot"
+                                    '🎭 ⭕️ FOR YOUR QUERY, CONTACT ME ⭕️', url="https://t.me/ak_akshayss"
                                 )
                         ]
                     ]
@@ -49,10 +49,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/joinchat/TRlZZilyh-MVa66t'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/joinchat/YS-WlsUC9nFiOWM0')
+        InlineKeyboardButton('Developers', url='https://t.me/+CnRcLIWQmuMxOGVl'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/+CnRcLIWQmuMxOGVl')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/joinchat/YS-WlsUC9nFiOWM0')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/+CnRcLIWQmuMxOGVl')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
